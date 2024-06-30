@@ -1,0 +1,5 @@
+$1 = $domain
+$2 = $rootpath
+$3 = $defaultPort
+$4 = $sslPort
+$5 = $phpVer

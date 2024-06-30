@@ -1,0 +1,126 @@
+{
+  "tools": [
+    {
+      "title": "nvd_feed_api",
+      "description": "A simple ruby API/library for managing NVD CVE feeds. The API will help you to download and manage NVD Data Feeds, search for CVEs, build your vulnerability assessment platform or vulnerability database.",
+      "website": "https://noraj.gitlab.io/nvd_api/",
+      "source": "https://gitlab.com/noraj/nvd_api"
+    },
+    {
+      "title": "Flask Session Cookie Decoder/Encoder",
+      "description": "A simple python script that let you encode and decode a Flask session cookie.",
+      "website": "https://noraj.github.io/flask-session-cookie-manager",
+      "source": "https://github.com/noraj/flask-session-cookie-manager"
+    },
+    {
+      "title": "RABID",
+      "description": "A CLI tool and library allowing to simply decode all kind of BigIP cookies.",
+      "website": "https://noraj.github.io/rabid/",
+      "source": "https://github.com/noraj/rabid",
+      "logo": "https://noraj.github.io/rabid/_media/logo.png"
+    },
+    {
+      "title": "HAITI",
+      "description": "Hash type identifier (CLI & lib).",
+      "website": "https://noraj.github.io/haiti/",
+      "source": "https://github.com/noraj/haiti",
+      "logo": "https://noraj.github.io/haiti/_media/logo.png"
+    },
+    {
+      "title": "ctf-party",
+      "description": "A library to enhance and speed up script/exploit writing for CTF players (or security researchers, bug bounty hunters, pentesters but mostly focused on CTF) by patching the String class to add a short syntax of usual code patterns.",
+      "website": "https://noraj.github.io/ctf-party/",
+      "source": "https://github.com/noraj/ctf-party",
+      "logo": "https://noraj.github.io/ctf-party/_media/logo.png"
+    },
+    {
+      "title": "itdis",
+      "description": "Is a small tool that allows you to check if a list of domains you have been provided is in the scope of your pentest or not.",
+      "website": "https://noraj.gitlab.io/itdis/",
+      "source": "https://gitlab.com/noraj/itdis"
+    },
+    {
+      "title": "PixelChart",
+      "description": "Map binary data into a beautiful chart.",
+      "website": "https://noraj.github.io/PixelChart/",
+      "source": "https://github.com/noraj/PixelChart",
+      "logo": "https://noraj.github.io/PixelChart/images/random.png"
+    },
+    {
+      "title": "VBSmin",
+      "description": "VBScript minifier CLI tool and library",
+      "website": "https://noraj.github.io/vbsmin/",
+      "source": "https://github.com/noraj/vbsmin",
+      "logo": "https://noraj.github.io/vbsmin/_media/vbsmin_300x300.png"
+    },
+    {
+      "title": "Pass Station",
+      "description": "CLI & library to search for default credentials among thousands of Products / Vendors.",
+      "website": "https://noraj.github.io/pass-station/",
+      "source": "https://github.com/noraj/pass-station",
+      "logo": "https://noraj.github.io/pass-station/_media/logo.png"
+    },
+    {
+      "title": "vrt-cli",
+      "description": "A simple tool to visualize VRT (Vulnerability Rating Taxonomy) from the CLI.",
+      "website": "https://noraj.github.io/vrt-cli/",
+      "source": "https://github.com/noraj/vrt-cli"
+    },
+    {
+      "title": "TLS map",
+      "description": "CLI & library for mapping TLS cipher algorithm names: IANA, OpenSSL, GnuTLS, NSS.",
+      "website": "https://noraj.github.io/tls-map/",
+      "source": "https://github.com/noraj/tls-map",
+      "logo": "https://noraj.github.io/tls-map/_media/logo.png"
+    },
+    {
+      "title": "BQM",
+      "description": "Deduplicate custom BloudHound queries from different datasets and merge them in one customqueries.json file.",
+      "website": "https://acceis.github.io/bqm/",
+      "source": "https://github.com/noraj/bqm",
+      "logo": "https://github.com/noraj/bqm/raw/master/assets/logo-bqm.png"
+    },
+    {
+      "title": "DC Detector",
+      "description": "Spot all domain controllers in a Microsoft Active Directory environment. Find computer name, FQDN, and IP address(es) of all DCs.",
+      "website": "https://noraj.github.io/DCDetector/",
+      "source": "https://github.com/noraj/DCDetector",
+      "logo": "https://github.com/noraj/DCDetector/raw/master/docs/_media/logo.png"
+    },
+    {
+      "title": "miniss",
+      "description": "Displays a list of open listening sockets. It is a minimal alternative to ss or netstat to offer a static binary that can be deployed on containers or hardened environnement where the classical binaries have been removed.",
+      "website": "https://noraj.github.io/miniss/",
+      "source": "https://github.com/noraj/miniss",
+      "logo": "https://github.com/noraj/miniss/raw/master/docs/logo-miniss.png"
+    },
+    {
+      "title": "kh2hc",
+      "description": "Convert OpenSSH known_hosts file hashed with HashKnownHosts to hashes crackable by Hashcat.",
+      "website": "https://noraj.github.io/kh2hc/",
+      "source": "https://github.com/noraj/kh2hc",
+      "logo": "https://github.com/noraj/kh2hc/raw/master/docs/_media/kh2hc-logo.png"
+    },
+    {
+      "title": "unisec",
+      "description": "A CLI tool and library to play with Unicode security.",
+      "website": "https://acceis.github.io/unisec",
+      "source": "https://github.com/Acceis/unisec",
+      "logo": "https://github.com/Acceis/unisec/raw/master/docs/_media/unisec-logo.png"
+    },
+    {
+      "title": "hivexcavator",
+      "description": "Extracting the contents of Microsoft Windows Registry (hive) and display it as a colorful tree but mainly focused on parsing BCD files to extract WIM files path for PXE attacks.",
+      "website": "https://acceis.github.io/hivexcavator/",
+      "source": "https://github.com/Acceis/hivexcavator",
+      "logo": "https://github.com/Acceis/hivexcavator/raw/master/docs/logo-hivexcavator.png"
+    },
+    {
+      "title": "AspiSec",
+      "description": "Vacuuming out the remnants of offensive tools. AspiSec is responsible for removing the traces and confidential information left by offensive security tools on an auditor's computer in various cache and log files.",
+      "website": "https://acceis.github.io/aspisec/",
+      "source": "https://github.com/Acceis/aspisec",
+      "logo": "https://github.com/Acceis/aspisec/raw/master/docs/_media/logo-aspisec.jpg"
+    }
+  ]
+}

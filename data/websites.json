@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Rawsec's CyberSecurity Inventory",
+    "description": "is an inventory and search engine of tools and resources about CyberSecurity that aims to help people to find everything related to CyberSecurity.",
+    "link": "https://inventory.raw.pm/",
+    "iframe1": "https://inventory.raw.pm/overview.html",
+    "iframe2": "https://inventory.raw.pm/tools.html#title-tools-web-application-exploitation"
+  },
+  {
+    "name": "Rawsec's blog",
+    "description": "is a blog talking about Linux and security but is also hosting a lot of challenge write-ups (CTF, TryHackMe, HackTheBox, etc.).",
+    "link": "https://blog.raw.pm/",
+    "iframe1": "https://blog.raw.pm/",
+    "iframe2": "https://blog.raw.pm/en/TryHackMe-EnterPrize-write-up/#Overview"
+  },
+  {
+    "name": "Ruby Cheatsheet",
+    "description": "is a lovely Ruby language cheatsheet.",
+    "link": "https://noraj.gitlab.io/ruby-cheatsheet/",
+    "iframe1": "https://noraj.gitlab.io/ruby-cheatsheet/",
+    "iframe2": "https://noraj.gitlab.io/ruby-cheatsheet/cheatsheet/methods/"
+  },
+  {
+    "name": "The Hacking Tool Trove",
+    "description": "is a website providing TL;DR manual pages and reviews for hacking tools.",
+    "link": "https://trove.raw.pm/",
+    "iframe1": "https://trove.raw.pm/",
+    "iframe2": "https://trove.raw.pm/tools/barmie/"
+  },
+  {
+    "name": "RTFM",
+    "description": "is an association organizing a yearly french event about computer security and monthly meetings.",
+    "link": "https://rtfm.re",
+    "iframe1": "https://rtfm.re/fr/",
+    "iframe2": "https://rtfm.re/fr/about/"
+  }
+]

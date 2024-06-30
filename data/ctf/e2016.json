@@ -1,0 +1,161 @@
+{
+  "events": [{
+    "contest": "33C3 CTF",
+    "date": "Tue, 27 Dec. 2016 — Thu, 29 Dec. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/404",
+      "website" : "https://33c3ctf.ccc.ac/"
+  }}, {
+    "contest": "WhiteHat Grand Prix 2016",
+    "date": "Sat, 17 Dec. 2016 — Sun, 18 Dec. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/398",
+      "website" : "https://grandprix.whitehatvn.com/Contests/ChallengesContest/32"
+  }}, {
+    "contest": "SECCON 2016 Online CTF",
+    "date": "Sat, 10 Dec. 2016 — Sun, 11 Dec. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/354/",
+      "website" : "http://2016.seccon.jp/news/#124"
+  }}, {
+    "contest": "Juniors CTF 2016",
+    "date": "Fri, 25 Nov. 2016 — Sun, 27 Nov. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/391",
+      "website" : "https://juniors.ctf.org.ru/"
+  }}, {
+    "contest": "RC3 CTF 2016",
+    "date": "Sat, 19 Nov. 2016 — Mon, 21 Nov. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/389",
+      "website" : "http://ctf.rc3.club/"
+  }}, {
+    "contest": "Qiwi-Infosec CTF-2016",
+    "date": "Thu, 17 Nov. 2016 — Fri, 18 Nov. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/385",
+      "website" : "https://qiwictf.ru/"
+  }}, {
+    "contest": "School CTF 2016",
+    "date": "Sun, 06 Nov. 2016 — Sun, 06 Nov. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/384",
+      "website" : "https://school-ctf.org/"
+  }}, {
+    "contest": "Hack The Vote 2016",
+    "date": "Sat, 05 Nov. 2016 — Mon, 07 Nov. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/345",
+      "website" : "https://pwn.voting/"
+  }}, {
+    "contest": "European Cyber Week CTF Quals 2016",
+    "date": "Fri, 21 Oct. 2016 — Sun, 06 Nov. 2016",
+    "location": "On-line",
+    "links": {
+      "website" : "https://challenge-ecw.fr/"
+  }}, {
+    "contest": "Hack.lu CTF 2016",
+    "date": "Wed, 19 Oct. 2016 — Thu, 20 Oct. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/380",
+      "website" : "https://2016.hack.lu/ctf/"
+  }}, {
+    "contest": "HITCON CTF 2016 Quals",
+    "date": "Sat, 08 Oct. 2016 — Mon, 10 Oct. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/355",
+      "website" : "http://ctf.hitcon.org/"
+  }}, {
+    "contest": "HackIt CTF 2016 Online",
+    "date": "Fri, 23 Sep. 2016 — Sun, 02 Oct. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/360",
+      "website" : "https://ctf.com.ua/"
+  }}, {
+    "contest": "CSAW CTF Qualification Round 2016",
+    "date": "Sat, 17 Sep. 2016 — Mon, 19 Sep. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/347",
+      "website" : "https://ctf.csaw.io/"
+  }}, {
+    "contest": "WhiteHat Contest 12",
+    "date": "Sat, 10 Sep. 2016 — Sun, 11 Sep. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/357",
+      "website" : "https://wargame.whitehat.vn/"
+  }}, {
+    "contest": "ASIS CTF Finals 2016",
+    "date": "Fri, 09 Sep. 2016 — Sun, 11 Sep. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/327",
+      "website" : "http://asis-ctf.ir/"
+  }}, {
+    "contest": "CTF(x) 2016",
+    "date": "Fri, 26 Aug. 2016 — Sun, 28 Aug. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/348/",
+      "website" : "http://ctfx.io/"
+  }}, {
+    "contest": "BioTerra CTF 2016",
+    "date": "Sat, 20 Aug. 2016 — Sun, 21 Aug. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/350",
+      "website" : "https://bioterra.xyz/"
+  }}, {
+    "contest": "Hackcon 2016",
+    "date": "Fri, 19 Aug. 2016 — Sat, 20 Aug. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/341",
+      "website" : "http://hackcon.in/"
+  }}, {
+    "contest": "IceCTF 2016",
+    "date": "Fri, 12 Aug. 2016 — Fri, 26 Aug. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/319",
+      "website" : "https://icec.tf/"
+  }}, {
+    "contest": "ABCTF 2016",
+    "date": "Fri, 15 Jul. 2016 — Fri, 22 Jul. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/333",
+      "website" : "https://abctf.xyz/"
+  }}, {
+    "contest": "BackdoorCTF 2016",
+    "date": "Sat, 04 Jun. 2016 — Sun, 05 Jun. 2016",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/314",
+      "website" : "https://backdoor.sdslabs.co/"
+  }}, {
+    "contest": "SSTIC2016",
+    "date": "Wed, 01 Jun. 2016 — Fri, 03 Jun. 2016",
+    "location": "Rennes, Bretagne, France",
+    "links": {
+      "website" : "https://www.sstic.org/2016/programme/"
+  }}, {
+    "contest": "BreizhCTF 2k16",
+    "date": "Fri, 29 Apr. 2016 — Sat, 30 Apr. 2016",
+    "location": "Rennes, Bretagne, France",
+    "links": {
+      "website" : "http://www.breizhctf.com/"
+  }}]
+}

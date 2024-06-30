@@ -1,0 +1,23 @@
+{
+  "events": [{
+    "contest": "HACK-IT-N 2021",
+    "date": "Thu, 02 Dec. 2021 - Thu, 02 Dec. 2021",
+    "location": "On-line",
+    "links": {
+      "website": "https://www.hack-it-n.com/"
+  }},
+  {
+    "contest": "HackTheBox Cyber Santa CTF 2021",
+    "date": "Wed, 01 Dec. 2021 - Sun, 05 Dec. 2021",
+    "location": "On-line",
+    "links": {
+      "website": "https://www.hackthebox.com/events/santa-needs-your-help"
+  }},
+  {
+    "contest": "Isolation Con 2",
+    "date": "Sat, 24 Apr. 2021 - Sun, 25 Apr. 2021",
+    "location": "On-line",
+    "links": {
+      "website": "https://www.tmhcisolationcon.com/"
+  }}]
+}

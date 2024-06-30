@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "title": "Offensive Security Exam Report Template in Markdown",
+      "description": "Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report.",
+      "website": "https://noraj.github.io/OSCP-Exam-Report-Template-Markdown",
+      "source": "https://github.com/noraj/OSCP-Exam-Report-Template-Markdown"
+    },
+    {
+      "title": "XSS classification model",
+      "description": "XSS classification model - Types of Cross-Site Scripting",
+      "website": "https://noraj.github.io/XSS-classification-model/",
+      "source": "https://github.com/noraj/XSS-classification-model/"
+    },
+    {
+      "title": "Bug Bounty légal en FRANCE [FR]",
+      "description": "Quelques conseils autour des obligations légales, fiscales et juridique pour la pratique du Bug Bounty en France",
+      "website": "https://noraj.github.io/BB-legal-FR/",
+      "source": "https://github.com/noraj/BB-legal-FR/"
+    },
+    {
+      "title": "ACCEIS Vulnerable Code Snippets",
+      "description": "Vulnerable code snippets repository showcasing different vulnerabilities to practice code analysis skills.",
+      "website": "https://acceis.github.io/avcs-website/",
+      "source": "https://github.com/Acceis/vulnerable-code-snippets"
+    },
+    {
+      "title": "EntroCalc [FR]",
+      "description": "Calculateur d'entropie de mot de passe",
+      "website": "https://acceis.github.io/EntroCalc/",
+      "source": "https://github.com/acceis/entrocalc"
+    }
+  ]
+}

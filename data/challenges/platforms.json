@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Root Me",
+    "picture": "https://i.imgur.com/dNGeQoT.jpeg",
+    "description": "Root Me is a learning platform dedicated to hacking and information security. There are challenges about system, reverse, pwn, crypto, forensics, programming, networking, stego, web (client and server) and also realistic. In addition to the challenges, there are also boxes called CTF all the day.",
+    "profile": "https://www.root-me.org/alex-29004",
+    "script": "https://root-me-badge.cloud.duboc.xyz/storage_clients/2ace996583eab80177ef3d06c903cc83/badge.js"
+  },
+  {
+    "title": "Hack The Box",
+    "picture": "https://i.imgur.com/ZrFxy3e.jpeg",
+    "description": "HBT is a training platform dedicated to hacking focused on being realistic. There are several dozen of time limited machines called boxes that you must own to get two flag: user and root. In addition to the boxes, there are challenges about reverse, pwn, crypto, forensics, stego, web, mobile challenges. I have the Pro Hacker rank on this platform.",
+    "profile": "https://www.hackthebox.eu/profile/32519",
+    "script": "https://www.hackthebox.eu/badge/32519"
+  },
+  {
+    "title": "TryHackMe",
+    "picture": "https://i.imgur.com/M9Bheol.jpeg",
+    "description": "A hacking platform that makes a comfortable experience to learn by designing prebuilt courses which include virtual machines (VM) hosted in the cloud ready to be deployed. This avoids the hassle of downloading and configuring VM's. The platform is perfect for CTFs, Workshops, Assessments or Training.",
+    "profile": "https://tryhackme.com/p/noraj",
+    "script": "https://tryhackme.com/badge/5193"
+  },
+  {
+    "title": "PentesterLab",
+    "picture": "https://i.imgur.com/xT55oCg.jpeg",
+    "description": "Web pentest courses and labs which focus on real vulnerabilities. There are courses about unix, pcap, http, serialization, many CVE, interception, authentication, android, recon, API, media, code review.",
+    "profile": "https://pentesterlab.com/profile/noraj"
+  },
+  {
+    "title": "TheBlackSide",
+    "picture": "https://i.imgur.com/PcEy6Uq.png",
+    "description": "TheBlackSide is a learning platform dedicated to hacking and information security. There are challenges web, stego, crypto, reverse, networking, forensic, dev, pwn, box and misc challenges.",
+    "profile": "https://theblackside.fr/profil/noraj"
+  }
+]

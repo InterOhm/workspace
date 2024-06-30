@@ -1,0 +1,14 @@
+doctype html
+html lang="en"
+  head
+    = partial :head
+
+  body
+    = partial :menu
+
+    section.section
+      .container
+        = yield
+
+    .sticky-footer
+    = partial :footer

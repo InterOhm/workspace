@@ -1,0 +1,40 @@
+{
+  "events": [{
+    "contest": "LevelUp 0x07",
+    "date": "Sat, 22 Aug. 2020",
+    "location": "On-line",
+    "links": {
+      "website": "https://levelup.bugcrowd.com/"
+  }}, {
+    "contest": "H@chtivitycon 2020",
+    "date": "Fri, 31 Jul. 2020 — Sat, 1 Aug. 2020",
+    "location": "On-line",
+    "links": {
+      "website": "https://www.hackerone.com/hacktivitycon"
+  }}, {
+    "contest": "SSTIC 2020",
+    "date": "Wed, 3 Jun. 2020 — Fri, 5 Jun. 2020",
+    "location": "On-line",
+    "links": {
+      "website": "https://www.sstic.org/2020/"
+  }}, {
+    "contest": "LevelUp 0x06",
+    "date": "Sat, 9 May 2020",
+    "location": "On-line",
+    "links": {
+      "website": "https://levelup.sh/"
+  }}, {
+    "contest": "Isolation Con",
+    "date": "Sun, 19 Apr. 2020",
+    "location": "On-line",
+    "links": {
+      "website": "https://themanyhats.club/the-many-hats-club-presents-isolationcon/"
+  }}, {
+    "contest": "PlaidCTF 2020",
+    "date": "Fri, 17 Apr. 2020 — Sun, 19 Apr. 2020",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/936",
+      "website" : "http://plaidctf.com/"
+  }}]
+}

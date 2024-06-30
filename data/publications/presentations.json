@@ -1,0 +1,195 @@
+[
+  {
+    "title": "XSS Unicode - Tout est devenu normal",
+    "year": "2024",
+    "lang": "🇫🇷",
+    "thumbnail": "images/xss-unicode.jpg",
+    "description": "Rump at BreizhCTF 2k24 presenting HTML escape bypass with Unicode normalization",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://acceis.github.io/rump-xss-unicode/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/Acceis/rump-xss-unicode"
+      },
+      {
+        "label": "PDF",
+        "link": "https://github.com/Acceis/rump-xss-unicode/releases/download/1.0.0/slides.pdf"
+      }
+    ]
+  },
+  {
+    "title": "SafetyNet Attestation API bypass",
+    "year": "2023",
+    "lang": "🇫🇷",
+    "thumbnail": "images/safetynet-bypass.png",
+    "description": "Rump at BreizhCTF 2k23 presenting SafetyNet Attestation API bypass",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://acceis.github.io/rump-SafetyNet/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/Acceis/rump-SafetyNet"
+      },
+      {
+        "label": "PDF",
+        "link": "https://github.com/Acceis/rump-SafetyNet/releases/download/v1.0.0/slides.pdf"
+      },
+      {
+        "label": "Video",
+        "link": "https://youtu.be/nTteNlOA548?si=0effexC-PGoGDDps&t=1433"
+      }
+    ]
+  },
+  {
+    "title": "GraphQL for Pentesters",
+    "year": "2022",
+    "lang": "🇬🇧",
+    "thumbnail": "images/graphql_for_pentesters.png",
+    "description": "Introducing GraphQL security for penetration tests",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://acceis.github.io/prez-graphql/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/Acceis/prez-graphql"
+      },
+      {
+        "label": "PDF",
+        "link": "https://github.com/Acceis/prez-graphql/releases/download/v1.0.0/slides.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Cracking hashed known_hosts",
+    "year": "2022",
+    "lang": "🇬🇧",
+    "thumbnail": "images/cracking_hashed_known_hosts.png",
+    "description": "Cracking hashed SSH known_hosts presentation",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://acceis.github.io/prez-known_hosts/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/Acceis/prez-known_hosts"
+      },
+      {
+        "label": "PDF",
+        "link": "https://github.com/Acceis/prez-known_hosts/releases/download/v1.0.0/slides.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Unicode Attacks",
+    "year": "2022",
+    "lang": "🇫🇷",
+    "thumbnail": "images/unicode_attacks.png",
+    "description": "Rump at BreizhCTF 2k22 presenting two unicode attacks",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://acceis.github.io/rump-unicode/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/Acceis/rump-unicode"
+      },
+      {
+        "label": "PDF",
+        "link": "https://github.com/Acceis/rump-unicode/releases/download/1.0.0/slides.pdf"
+      }
+    ]
+  },
+  {
+    "title": "XSS classification model",
+    "year": "2020",
+    "lang": "🇬🇧🇫🇷",
+    "thumbnail": "images/xss-wordcloud.png",
+    "description": "Types of XSS evolution",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://noraj.github.io/XSS-classification-model-slideshow/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/noraj/XSS-classification-model-slideshow"
+      },
+      {
+        "label": "PDF",
+        "link": "https://github.com/noraj/XSS-classification-model-slideshow/raw/master/docs/XSS_classification_model-Alexandre_ZANNI.pdf"
+      },
+      {
+        "label": "Video",
+        "link": "https://youtu.be/a0KUWOfXC_I"
+      }
+    ]
+  },
+  {
+    "title": "OTP",
+    "year": "2017",
+    "lang": "🇫🇷",
+    "thumbnail": "images/presentation_otp.png",
+    "description": "One-time pad cryptography",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://noraj.github.io/presentation-one-time-pad/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/noraj/presentation-one-time-pad"
+      }
+    ]
+  },
+  {
+    "title": "Markdown",
+    "year": "2016",
+    "lang": "🇬🇧",
+    "thumbnail": "images/presentation_markdown.png",
+    "description": "Mardown for daily usage",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://gitpitch.com/noraj/presentation-markdown/master?grs=gitlab"
+      },
+      {
+        "label": "Source",
+        "link": "https://gitlab.com/noraj/presentation-markdown"
+      },
+      {
+        "label": "ZIP",
+        "link": "https://gitpitch.com/pitchme/offline/gitlab/noraj/presentation-markdown/master/white/PITCHME.zip"
+      },
+      {
+        "label": "PDF",
+        "link": "https://gitpitch.com/pitchme/print/gitlab/noraj/presentation-markdown/master/white/PITCHME.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Create python package",
+    "year": "2016",
+    "lang": "🇬🇧",
+    "thumbnail": "images/presentation_python_package.png",
+    "description": "How to create a simple python package",
+    "cards": [
+      {
+        "label": "Slideshow",
+        "link": "https://noraj.github.io/Create-python-package-presentation/"
+      },
+      {
+        "label": "Source",
+        "link": "https://github.com/noraj/Create-python-package-presentation"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": ["CVE-2023-38490"],
+    "advisory": "https://github.com/getkirby/kirby/security/advisories/GHSA-q386-w6fg-gmgp",
+    "title": "XML External Entity attack on Kirby < 3.9.6 ",
+    "tags": [
+      {
+        "label": "XXE",
+        "color": "danger"
+      },
+      {
+        "label": "CVE",
+        "color": "info"
+      }
+    ]
+  },
+  {
+    "id": ["CVE-2020-10787"],
+    "advisory": "https://gitlab.com/snippets/1954764",
+    "title": "EoP via user password change script on VestaCP 0.9.8-26",
+    "tags": [
+      {
+        "label": "EoP",
+        "color": "danger"
+      },
+      {
+        "label": "CVE",
+        "color": "info"
+      }
+    ]
+  },
+  {
+    "id": ["CVE-2020-10786"],
+    "advisory": "https://gitlab.com/snippets/1954764",
+    "title": "RCE via cron jobs on VestaCP 0.9.8-26",
+    "tags": [
+      {
+        "label": "RCE",
+        "color": "danger"
+      },
+      {
+        "label": "CVE",
+        "color": "info"
+      }
+    ]
+  },
+  {
+    "id": ["CVE-2020-8776", "CVE-2020-8777", "CVE-2020-8778"],
+    "advisory": "https://gitlab.com/snippets/1937042",
+    "title": "Multiples stored XSS on Alfresco 5.2.4",
+    "tags": [
+      {
+        "label": "XSS",
+        "color": "warning"
+      },
+      {
+        "label": "CVE",
+        "color": "info"
+      }
+    ]
+  },
+  {
+    "id": ["CVE-2019-13029"],
+    "advisory": "https://gitlab.com/snippets/1874216",
+    "title": "Multiples stored XSS on REDCap < 9.1.2 & < 8.10.2",
+    "tags": [
+      {
+        "label": "XSS",
+        "color": "warning"
+      },
+      {
+        "label": "CVE",
+        "color": "info"
+      }
+    ]
+  }
+]
+

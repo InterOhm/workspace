@@ -1,0 +1,169 @@
+[
+  {
+    "title": "Theft of NTLM v2 hash code via Outlook vulnerability (CVE-2023-35636)",
+    "year": "2024",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/outlook-CVE-2023-35636.jpg",
+    "description": "Showcasing exploitation of the calendar sharing feature in Microsoft Outlook, whereby adding two headers to an email instructs Outlook to share the content and contact a designated machine, creating an opportunity to intercept NTLM v2 hash code.",
+    "article": [
+      "https://www.acceis.fr/vol-de-code-de-hachage-ntlm-v2-via-la-vulnerabilite-outlook-cve-2023-35636/",
+      "https://www.acceis.fr/theft-of-ntlm-v2-hash-code-via-outlook-vulnerability-cve-2023-35636/"
+    ],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "Tackling PXE images",
+    "year": "2024",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/tackling-PXE-images.jpg",
+    "description": "Demystifying the nuts and bolts of PXE boot, and explaining how to retrieve and analyze a PXE image to find secrets (such as an AD domain account).",
+    "article": [
+      "https://www.acceis.fr/sattaquer-aux-images-pxe/",
+      "https://www.acceis.fr/tackling-pxe-images/"
+    ],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "LDAP pass back attack",
+    "year": "2023",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/ldap-pass-back.webp",
+    "description": "Methodology for Active Directory domain accounts takeover through LDAP pass back attack on printers.",
+    "article": [
+      "https://www.acceis.fr/attaque-par-retro-passage-ldap/",
+      "https://www.acceis.fr/ldap-pass-back-attack/"
+    ],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "Kirby < 3.9.6 XML External Entity (XXE) vulnerability — CVE-2023-38490",
+    "year": "2023",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/xxe-kirby.png",
+    "description": "Detailed write-up about an XXE on Kirby CMS (CVE-2023-38490).",
+    "article": [
+      "https://www.acceis.fr/vulnerabilite-kirby-3-9-6-xml-external-entity-xxe-cve-2023-38490",
+      "https://www.acceis.fr/kirby-3-9-6-xml-external-entity-xxe-vulnerability-cve-2023-38490"
+    ],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "GraphQL for Pentesters",
+    "year": "2023",
+    "lang": ["🇬🇧"],
+    "thumbnail": "images/graphql_for_pentesters_2.jpg",
+    "description": "Introducing GraphQL security for penetration tests: basic concepts, security considerations & reconnaissance, vulnerabilities and attacks, offensive tools.",
+    "article": ["https://www.acceis.fr/graphql-for-pentesters/"],
+    "company": ["ACCEIS"]
+  },
+  {
+    "title": "What’s new in ffuf 2.0 release?",
+    "year": "2023",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/ffuf-2.0.jpg",
+    "description": "Covers new features in ffuf 2.0: scrapper, request backtracking, configuration supporting XDG_CONFIG_HOME.",
+    "article": [
+      "https://www.acceis.fr/quelles-sont-les-nouveautes-de-la-version-2-0-de-ffuf/",
+      "https://www.acceis.fr/whats-new-in-ffuf-2-0-release/"],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "ffuf advanced tricks",
+    "year": "2022",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/ffuf-tricks.jpg",
+    "description": "Covers advanced use case of ffuf: the configuration file, reading from standard input, avoiding false negatives with match all and filtering with regexp, use of external payload mutators.",
+    "article": [
+      "https://www.acceis.fr/astuces-avancees-avec-ffuf/",
+      "https://www.acceis.fr/ffuf-advanced-tricks/"],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "Transform P3 P4 P5 vulnerabilities to P1",
+    "year": "2022",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/P3_P4_P5_to_P1.jpg",
+    "description": "How to steal user sessions by chaining low risk vulnerabilities.",
+    "article": [
+      "https://www.acceis.fr/transformer-des-vulnerabilites-p3-p4-p5-en-p1/",
+      "https://www.acceis.fr/transform-p3-p4-p5-vulnerabilities-to-p1/"],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "Cracking encrypted archives (PKZIP: Zip ZipCrypto, Winzip: Zip AES, 7 Zip, RAR)",
+    "year": "2022",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/cracking-archive-ZIP2.jpg",
+    "description": "Biham and Kocher plaintext attack on ZipCrypto Zip and wordlist attack on Zip, 7-zip and RAR.",
+    "article": [
+      "https://www.acceis.fr/craquage-darchives-chiffrees-pkzip-zip-zipcrypto-winzip-zip-aes-7-zip-rar/",
+      "https://www.acceis.fr/cracking-encrypted-archives-pkzip-zip-zipcrypto-winzip-zip-aes-7-zip-rar/"],
+    "company": ["ACCEIS", "ACCEIS"]
+  },
+  {
+    "title": "Ruby 3.2.0 Preview 1 : vivre dans le futur",
+    "year": "2022",
+    "lang": ["🇫🇷"],
+    "thumbnail": "images/futur_acceis_ruby.jpg",
+    "description": "Overview of the new features that will come in Ruby 3.2.0: WebAssembly (WASM / WASI), ReDoS protection, Unicode v14.",
+    "article": ["https://www.acceis.fr/ruby-3-2-0-preview-1-vivre-dans-le-futur/"],
+    "company": ["ACCEIS"]
+  },
+  {
+    "title": "Attaques Unicode - Rump BreizhCTF 2k22",
+    "year": "2022",
+    "lang": ["🇫🇷"],
+    "thumbnail": "images/unicode_attacks.png",
+    "description": "Case transformation collision and Hostname splitting Unicode attacks.",
+    "article": ["https://www.acceis.fr/attaques-unicode-rump-breizhctf-2k22/"],
+    "company": ["ACCEIS"]
+  },
+  {
+    "title": "Some sudo elevation of privilege vulnerabilities",
+    "year": "2021",
+    "lang": ["🇬🇧"],
+    "thumbnail": "images/logo_sec-it_square_512.png",
+    "description": "An introduction to 3 sudo vulnerabilities: CVE-2019-14287, CVE-2019-18634, CVE-2021-3156.",
+    "article": ["https://blog.sec-it.fr/en/2021/02/08/sudo-vulns/"],
+    "company": ["SEC-IT"]
+  },
+  {
+    "title": "Security.txt | Progress in Ethical Security Research",
+    "year": "2020",
+    "lang": ["🇬🇧"],
+    "thumbnail": "images/securitytxt.jpeg",
+    "description": "This article looks to answer the question of how widely adopted security.txt has become, 3 years on from when it was first drafted.",
+    "article": ["https://web.archive.org/web/20231218111558/https://community.turgensec.com/security-txt-progress-in-ethical-security-research/"],
+    "company":["TurgenSec"]
+  },
+  {
+    "title": "Shodan Pentesting Guide",
+    "year": "2020",
+    "lang": ["🇬🇧"],
+    "thumbnail": "images/shodan.jpeg",
+    "description": "Delving deep into Shodan's mine.",
+    "article": ["https://web.archive.org/web/20240118221726/https://community.turgensec.com/shodan-pentesting-guide/"],
+    "company": ["TurgenSec"]
+  },
+  {
+    "title": "SSH Pentesting Guide",
+    "year": "2020",
+    "lang": ["🇬🇧"],
+    "thumbnail": "images/ssh.jpeg",
+    "description": "A Comprehensive Guide to Breaking SSH.",
+    "article": ["https://web.archive.org/web/20231216212225/https://community.turgensec.com/ssh-hacking-guide/"],
+    "company": ["TurgenSec"]
+  },
+  {
+    "title": "Overview of network pivoting and tunneling",
+    "year": "2019",
+    "lang": ["🇫🇷", "🇬🇧"],
+    "thumbnail": "images/pivoting.png",
+    "description": "State of the art of network pivoting, this paper covers several pivoting techniques as well as the existing tools to perform a lateral move.",
+    "article": [
+      "https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/",
+      "https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/"
+    ],
+    "company": ["Orange Cyberdefense", "Rawsec"]
+  }
+]

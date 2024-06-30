@@ -1,0 +1,12 @@
+doctype html
+html lang="en"
+  head
+    = partial :head
+
+  body
+    div.is-hidden-mobile#particles-js
+    = partial :menu
+    section.hero.is-fullheight.is-dark
+      = yield
+    = javascript_include_tag "particlesjs"
+    = javascript_include_tag "animated-background"

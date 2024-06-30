@@ -1,0 +1,13 @@
+doctype html
+html lang="en"
+  head
+    = partial :head_redirection
+
+  body
+    = partial :menu
+
+    section.section
+      .container
+        = yield
+
+    = partial :footer

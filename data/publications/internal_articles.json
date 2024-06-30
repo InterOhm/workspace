@@ -1,0 +1,110 @@
+{
+  "security": [
+    {
+      "title": " randomua - Inject random user-agent in pentest CLI tools",
+      "link": "https://blog.raw.pm/en/randomua/"
+    },
+    {
+      "title": "flAWS training complementary solution",
+      "link": "https://blog.raw.pm/en/flaws-cloud/"
+    },
+    {
+      "title": "SQL Injection - MySQL comment: the double dash mystery",
+      "link": "https://blog.raw.pm/en/sql-injection-mysql-comment/"
+    },
+    {
+      "title": "Check SSH fingerprint",
+      "link": "https://blog.raw.pm/en/check-ssh-fingerprint/"
+    },
+    {
+      "title": "Block automated scanners from scanning a website",
+      "link": "https://blog.raw.pm/en/block-automated-scanners-from-scanning-a-website/"
+    },
+    {
+      "title": "Types of SQL Injection",
+      "link": "https://blog.raw.pm/en/types-of-sql-injection/"
+    },
+    {
+      "title": "Client Side Certificate Authentication in Nginx with Elliptic Curve Cryptography",
+      "link": "https://blog.raw.pm/en/client-side-certificate-authentication-in-nginx-with-elliptic-curve-cryptography/"
+    },
+    {
+      "title": "2 less known tricks of spoofing extensions on Windows",
+      "link": "https://blog.raw.pm/en/2-less-known-tricks-spoofing-extensions/"
+    },
+    {
+      "title": "c99.php : A backdoored backdoor",
+      "link": "https://blog.raw.pm/en/c99-php-backdoor-backdoored/"
+    }
+  ],
+  "linux": [
+    {
+      "title": "Root Ulefone Power 3 using Magisk from Linux",
+      "link": "https://blog.raw.pm/en/root-ulefone-power3-magisk/"
+    },
+    {
+      "title": "Android OTA payload dumping / extraction: 4 tools review",
+      "link": "https://blog.raw.pm/en/android-OTA-payload-dumping/"
+    },
+    {
+      "title": "QEMU/KVM/Virt-Manager guest support on Debian",
+      "link": "https://blog.raw.pm/en/qemu-kvm-virt-manager-guest-debian/"
+    },
+    {
+      "title": "Install QEMU/KVM/Virt-Manager on ArchLinux",
+      "link": "https://blog.raw.pm/en/install-qemu-kvm-virt-manager-archlinux/"
+    },
+    {
+      "title": "Install LineageOS 19.1 on POCO F3 to replace MIUI 13.0.4",
+      "link": "https://blog.raw.pm/en/install-lineageos-poco-f3/"
+    },
+    {
+      "title": "Root POCO F3 using Magisk from Linux",
+      "link": "https://blog.raw.pm/en/root-poco-f3-magisk-linux/"
+    },
+    {
+      "title": "Setup an ArchLinux package caching proxy on Raspberry Pi 4",
+      "link": "https://blog.raw.pm/en/archlinux-setup-package-caching-proxy/"
+    },
+    {
+      "title": "FLOSS version of VSCode and the extensions gallery",
+      "link": "https://blog.raw.pm/en/FLOSS-version-of-vscode-and-extensions-gallery/"
+    },
+    {
+      "title": "Kalu - Keeping ArchLinux Up-to-date",
+      "link": "https://blog.raw.pm/en/archlinux-kalu/"
+    },
+    {
+      "title": "OSCP PWK Kali Linux 32bits VM back on track for VirtualBox",
+      "link": "https://blog.raw.pm/en/oscp-pwk-machine-back-on-track-for-virtualbox/"
+    },
+    {
+      "title": "Crawl a web page, extract all domains and resolve them to IP addresses",
+      "link": "https://blog.raw.pm/en/crawl-web-page-domains-resolve-ips/"
+    },
+    {
+      "title": "ArchLinux installation in VirtualBox",
+      "link": "https://blog.raw.pm/en/archlinux-installation-in-virtualbox/"
+    },
+    {
+      "title": "The rather unusual, opinionated and commented ArchLinux installation",
+      "link": "https://blog.raw.pm/en/unusual-archlinux-installation/"
+    },
+    {
+      "title": "How to use ProtonVPN on Arch Linux",
+      "link": "https://blog.raw.pm/en/unusual-archlinux-installation/"
+    },
+    {
+      "title": "Install BlackArch Linux on top of ArchLinux without gnupg / behind a proxy ",
+      "link": "https://blog.raw.pm/en/archlinux-install-blackarch-without-gnupg-behind-proxy/"
+    },
+    {
+      "title": "Snapshot for KVM via libvirt with virsh",
+      "link": "https://blog.raw.pm/en/snapshot-kvm-libvirt-virsh/"
+    },
+    {
+      "title": "Setup a proxy under Linux",
+      "link": "https://blog.raw.pm/en/proxy-linux/"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "events": [{
+    "contest": "Christmas Challenge 2017",
+    "date": "Sun, 24 Dec. 2017 — Tue, 26 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "website" : "SHX"
+  }}, {
+    "contest": "3DSCTF 2017",
+    "date": "Fri, 15 Dec. 2017 — Mon, 18 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctft3DSCTF2017",
+      "website" : "3DSCTF"
+  }}, {
+    "contest": "InCTF 2017",
+    "date": "Sat, 16 Dec. 2017 — Sun, 17 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeInctf2017",
+      "website" : "inctf"
+  }}, {
+    "contest": "SECCON 2017 Online CTF",
+    "date": "Sat, 09 Dec. 2017 — Sun, 10 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeSeccon2017",
+      "website" : "seccon2017"
+  }}, {
+    "contest": "Shellter Hacking Express 18",
+    "date": "Sun, 03 Dec. 2017 — Sun, 03 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeSHX18",
+      "website" : "SHX"
+  }}, {
+    "contest": "Takoma Park CTF",
+    "date": "Sat, 02 Dec. 2017 — Mon, 04 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeTpctf2017",
+      "website" : "tpctf"
+  }}, {
+    "contest": "Mini CTF 2017 - Riseup",
+    "date": "Wed, 29 Nov. 2017 — Thu, 30 Nov. 2017",
+    "location": "On-line",
+    "links": {
+      "website" : "minictfriseup"
+  }}, {
+    "contest": "TUCTF 2017",
+    "date": "Fri, 24 Nov. 2017 — Sun, 26 Nov. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeTuctf2017",
+      "website" : "tuctf"
+  }}, {
+    "contest": "RC3 CTF 2017",
+    "date": "Sat, 18 Nov. 2017 — Mon, 20 Nov. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeRC3CTF2017",
+      "website" : "rc3ctf"
+  }}, {
+    "contest": "hxp CTF 2017",
+    "date": "Fri, 17 Nov. 2017 — Sun, 19 Nov. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHXPCTF2017",
+      "website" : "hxpctf"
+  }}, {
+    "contest": "RUSecure-CTF 2017 Preparation Round",
+    "date": "Sat, 04 Nov. 2017 — Thu, 07 Dec. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeRuctfQuals2017",
+      "website" : "ructf"
+  }}, {
+    "contest": "HITCON CTF 2017 Quals",
+    "date": "Sat, 04 Nov. 2017 — Mon, 06 Nov. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHitconQuals2017",
+      "website" : "hitcon"
+  }}, {
+    "contest": "Oman National Cyber Security CTF 2017 Quals",
+    "date": "Thu, 26 Oct. 2017 — Sun, 29 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeOmanNationalCyberSecurityCTF2017",
+      "website" : "OmanNationalCyberSecurityCTF2017"
+  }}, {
+    "contest": "Pwn2Win CTF 2017",
+    "date": "Fri, 20 Oct. 2017 — Sun, 22 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimePwn2Win2017",
+      "website" : "pwn2win"
+  }}, {
+    "contest": "Hack&#46;lu CTF 2017",
+    "date": "Tue, 17 Oct. 2017 — Thu, 19 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHacklu2017",
+      "website" : "hacklu2017"
+  }}, {
+    "contest": "European Cyber Week CTF Quals 2017",
+    "date": "Fri, 06 Oct. 2017 — Sun, 22 Oct. 2017",
+    "location": "Online",
+    "links": {
+      "website" : "challengeECW"
+  }}, {
+    "contest": "Hack Dat Kiwi 2017",
+    "date": "Fri, 13 Oct. 2017 — Sun, 15 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHackDatKiwi2017",
+      "website" : "hackdatkiwi"
+  }}, {
+    "contest": "Kaspersky Industrial CTF Quals 2017",
+    "date": "Fri, 06 Oct. 2017 — Sun, 08 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeKasperskyCtf2017",
+      "website" : "kasperskyctf"
+  }}, {
+    "contest": "Square CTF 2017",
+    "date": "Wed, 04 Oct. 2017 — Sat, 14 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeSquarectf2017",
+      "website" : "squarectf"
+  }}, {
+    "contest": "DefCamp CTF Qualification 2017",
+    "date": "Sat, 30 Sep. 2017 — Sun, 01 Oct. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeDefcampQuals2017",
+      "website" : "defcamp"
+  }}, {
+    "contest": "HackCon 2017",
+    "date": "Fri, 25 Aug. 2017 — Sat, 26 Aug. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHackcon2017",
+      "website" : "hackcon"
+  }}, {
+    "contest": "HackIT CTF 2017",
+    "date": "Fri, 25 Aug. 2017 — Sun, 27 Aug. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHackit2017",
+      "website" : "hackit"
+  }}, {
+    "contest": "HITB CTF Singapore 2017",
+    "date": "Thu, 24 Aug. 2017 — Fri, 25 Aug. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeHitb2017",
+      "website" : "hitb"
+  }}, {
+    "contest": "CTFZone 2017",
+    "date": "Sat, 15 Jul. 2017 — Sun, 16 Jul. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeCtfzone2017",
+      "website" : "ctfzone"
+  }}, {
+    "contest": "MeePwn CTF 1st 2017",
+    "date": "Fri, 14 Jul. 2017 — Sun, 16 Jul. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeMeepwn2017",
+      "website" : "meepwn"
+  }}, {
+    "contest": "PoliCTF 2017",
+    "date": "Fri, 07 Jul. 2017 — Sun, 09 Jul. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimePoliCTF2017",
+      "website" : "polictf"
+  }}, {
+    "contest": "SECUINSIDE CTF Quals 2017",
+    "date": "Sat, 01 Jul. 2017 — Sun, 02 Jul. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeSECUINSIDECTFQuals2017",
+      "website" : "SECUINSIDECTF2017"
+  }}, {
+    "contest": "Google CTF 2017 Quals",
+    "date": "Sat, 17 Jun. 2017 — Sun, 18 Jun. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeGoogleCTF2017quals",
+      "website" : "googleCTF"
+  }}, {
+    "contest": "LabyREnth 2017",
+    "date": "Fri, 09 Jun. 2017 — Sun, 23 Jul. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeLabyrenth2017",
+      "website" : "labyrenth"
+  }}, {
+    "contest": "SHA2017 CTF Teaser round",
+    "date": "Sat, 10 Jun. 2017 — Sat, 10 Jun. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeSHA2017ctf",
+      "website" : "sha2017ctf"
+  }}, {
+    "contest": "SSTIC2017",
+    "date": "Wed, 07 Jun. 2016 — Fri, 09 Jun. 2017",
+    "location": "Streaming",
+    "links": {
+      "website" : "sstic2017"
+  }}, {
+    "contest": "RCTF 2017",
+    "date": "Sat, 20 May  2017 — Mon, 22 May  2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeRctf2017",
+      "website" : "rctf"
+  }}, {
+    "contest": "UIUCTF 2017",
+    "date": "Sat, 29 Apr. 2017 — Sun, 30 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeUiuctf2017",
+      "website" : "uiuctf"
+  }}, {
+    "contest": "BreizhCTF 2k17",
+    "date": "Fri, 28 Apr. 2017 — Sat, 29 Apr. 2017",
+    "location": "Rennes, Bretagne, France",
+    "links": {
+      "website" : "breizhctf"
+  }}, {
+    "contest": "YUBITSEC CTF 2017",
+    "date": "Sat, 22 Apr. 2017 — Mon, 24 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeYubitsecCtf2017",
+      "website" : "yubitsecCtf"
+  }}, {
+    "contest": "angstromCTF 2017",
+    "date": "Sat, 22 Apr. 2017 — Thu, 27 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeAngstromctf2017",
+      "website" : "angstromctf"
+  }}, {
+    "contest": "PlaidCTF 2017",
+    "date": "Fri, 21 Apr. 2017 — Sun, 23 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimePlaidctf2017",
+      "website" : "plaidctf"
+  }}, {
+    "contest": "Insigne CTF 2017",
+    "date": "Fri, 21 Apr. 2017 — Sat, 22 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeInsignectf2017",
+      "website" : "insignectf"
+  }}, {
+    "contest": "PACTF 2017",
+    "date": "Sun, 16 Apr. 2017 — Thu, 05 Jan. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimePacctf2017",
+      "website" : "pactf"
+  }}, {
+    "contest": "TAMUctf 2017",
+    "date": "Wed, 12 Apr. 2017 — Sun, 23 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "ctftimeTAMUctf2017",
+      "website" : "TAMUctf"
+  }}, {
+    "contest": "FIT-HACK CTF 2017",
+    "date": "Sat, 08 Apr. 2017 — Sat, 15 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/451",
+      "website" : "https://ctf.nw.fit.ac.jp/"
+  }}, {
+    "contest": "Sunshine CTF 2017",
+    "date": "Fri, 07 Apr. 2017 — Sat, 08 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/449",
+      "website" : "https://sunshinectf.org/"
+  }}, {
+    "contest": "ASIS CTF Quals 2017",
+    "date": "Fri, 07 Apr. 2017 — Sun, 09 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/364",
+      "website" : "http://asis-ctf.ir/"
+  }}, {
+    "contest": "INS'hAck 2017",
+    "date": "Thu, 06 Apr. 2017 — Sun, 09 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/444",
+      "website" : "http://ctf.insecurity-insa.fr/"
+  }}, {
+    "contest": "Egypt & UAE National Cyber Security CTF Quals 2017",
+    "date": "Thu, 06 Apr. 2017 — Sat, 08 Apr. 2017",
+    "location": "On-site",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/445",
+      "website" : "http://www.cybertalents.com/"
+  }}, {
+    "contest": "picoCTF 2017",
+    "date": "Fri, 31 Mar. 2017 — Fri, 14 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://2017.picoctf.com/",
+      "website" : "https://ctftime.org/event/443"
+  }}, {
+    "contest": "Nuit du Hack CTF Quals 2017",
+    "date": "Fri, 31 Mar. 2017 — Sat, 01 Apr. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/410",
+      "website" : "https://quals.nuitduhack.com/"
+  }}, {
+    "contest": "DEFNET 2017",
+    "date": "Thu, 30 Mar. 2017 — Thu, 30 Mar. 2017",
+    "location": "Rennes, Bretagne, France",
+    "links": {
+      "event" : "http://www.defense.gouv.fr/salle-de-presse/dossiers-de-presse/dossier-de-presse-defnet-2017"
+  }}, {
+    "contest": "DoubleS1405 CTF",
+    "date": "Sat, 25 Mar. 2017 — Sun, 26 Mar. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/446",
+      "website" : "http://doubles1405.com/"
+  }}, {
+    "contest": "WhiteHat Challenge 02",
+    "date": "Sat, 25 Mar. 2017 — Sat, 25 Mar. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/447",
+      "website" : "https://wargame.whitehat.vn/"
+  }}, {
+    "contest": "VolgaCTF 2017 Quals",
+    "date": "Fri, 24 Mar. 2017 — Sun, 26 Mar. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/374",
+      "website" : "https://quals.2017.volgactf.ru/"
+  }}, {
+    "contest": "0CTF 2017 Quals",
+    "date": "Sat, 18 Mar. 2017 — Mon, 20 Mar. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/402",
+      "website" : "https://ctf.0ops.net/"
+  }}, {
+    "contest": "EasyCTF 2017",
+    "date": "Mon, 13 Mar. 2017 — Mon, 20 Mar. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/441",
+      "website" : "https://www.easyctf.com/"
+  }}, {
+    "contest": "Pragyan CTF 2017",
+    "date": "Thu, 02 Mar. 2017 — Tue, 07 Mar. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/420",
+      "website" : "https://ctf.pragyan.org/home"
+  }}, {
+    "contest": "Xiomara CTF 2017",
+    "date": "Sat, 25 Feb. 2017 — Mon, 27 Feb. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/430",
+      "website" : "https://xiomara.xyz/"
+  }}, {
+    "contest": "WhiteHat Challenge 01",
+    "date": "Sat, 25 Feb. 2017 — Sat, 25 Feb. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/429",
+      "website" : "https://wargame.whitehat.vn/"
+  }}, {
+    "contest": "NeverLAN CTF 2017",
+    "date": "Fri, 24 Feb. 2017 — Mon, 27 Feb. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/431",
+      "website" : "https://neverlanctf.com/"
+  }}, {
+    "contest": "BSides San Francisco CTF 2017",
+    "date": "Sun, 12 Feb. 2017 — Tue, 14 Feb. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/414",
+      "website" : "https://scoreboard.ctf.bsidessf.com/"
+  }}, {
+    "contest": "BITSCTF 2017",
+    "date": "Sat, 04 Feb. 2017 — Sun, 05 Feb. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/417",
+      "website" : "https://bitsctf.bits-quark.org/"
+  }}, {
+    "contest": "AlexCTF 2017",
+    "date": "Fri, 03 Feb. 2017 — Mon, 06 Feb. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/408/",
+      "website" : "https://ctf.oddcoder.com/"
+  }}, {
+    "contest": "Insomni'hack teaser 2017",
+    "date": "Sat, 21 Jan. 2017 — Sun, 22 Jan. 2017",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/382",
+      "website" : "https://teaser.insomnihack.ch/"
+  }}]
+}

@@ -1,0 +1,213 @@
+{
+  "events": [{
+    "contest": "TMHC CTF 2019",
+    "date": "Fri, 13 Dec. 2019 — Sun, 15 Dec. 2019",
+    "location": "On-line",
+    "links": {
+      "website" : "https://ctf.hackthebox.eu/"
+  }}, {
+    "contest": "X-MAS CTF 2019",
+    "date": "Fri, 13 Dec. 2019 — Fri, 20 Dec. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/926",
+      "website" : "https://xmas.htsp.ro/"
+  }}, {
+    "contest": "watevrCTF 2019",
+    "date": "Fri, 13 Dec. 2019 — Sun, 15 Dec. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/893",
+      "website" : "https://ctf.watevr.xyz/"
+  }}, {
+    "contest": "Hexpresso FIC CTF 2020 Prequalification Round",
+    "date": "Thu, 12 Dec. 2019 — Thu, 19 Dec. 2019",
+    "location": "On-line",
+    "links": {
+      "website" : "https://ctf.hexpresso.fr/"
+  }}, {
+    "contest": "leHack 19",
+    "date": "Sat, 06 Jul. 2019 — Sun, 07 Jul. 2019",
+    "location": "Paris, IdF, France",
+    "links": {
+      "website" : "https://lehack.org/"
+  }}, {
+    "contest": "BugCrowd LevelUp 0x04",
+    "date": "Sat, 01 Jun. 2019 — Sun, 02 Jun. 2019",
+    "location": "On-line",
+    "links": {
+      "website" : "https://www.bugcrowd.com/resources/levelup-0x04/"
+  }}, {
+    "contest": "ECSC 2019 Quals Team France",
+    "date": "Mon, 13 May 2019 — Wed, 22 May 2019",
+    "location": "On-line",
+    "links": {
+      "website" : "https://www.ecsc-teamfrance.fr/"
+  }}, {
+    "contest": "TSG CTF 2019",
+    "date": "Sat, 04 May 2019 — Sun, 05 May 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/758",
+      "website" : "https://ctf.tsg.ne.jp/"
+  }}, {
+    "contest": "INS'hAck 2019",
+    "date": "Thu, 02 May 2019 — Sun, 05 May 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/763",
+      "website" : "https://scoreboard.ctf.insecurity-insa.fr/"
+  }}, {
+    "contest": "*CTF 2019",
+    "date": "Sat, 27 Apr. 2019 — Mon, 29 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/778",
+      "website" : "http://starctf.xctf.org.cn/"
+  }}, {
+    "contest": "Hack Zone Tunisia 2019",
+    "date": "Sat, 13 Apr. 2019 — Sun, 14 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/794",
+      "website" : "http://www.p0wnhub.com/"
+  }}, {
+    "contest": "YauzaCTF 2019 Quals",
+    "date": "Sat, 13 Apr. 2019 — Sun, 14 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/784",
+      "website" : "https://yauzactf.bmstu.com/"
+  }}, {
+    "contest": "PlaidCTF 2019",
+    "date": "Fri, 12 Apr. 2019 — Sun, 14 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/743",
+      "website" : "http://plaidctf.com/"
+  }}, {
+    "contest": "WPICTF 2019",
+    "date": "Fri, 12 Apr. 2019 — Mon, 15 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/728",
+      "website" : "https://wpictf.xyz/"
+  }}, {
+    "contest": "BreizhCTF 2k19",
+    "date": "Fri, 12 Apr. 2019 — Sat, 13 Apr. 2019",
+    "location": "Rennes, Bretagne, France",
+    "links": {
+      "website" : "https://www.breizhctf.com/"
+  }}, {
+    "contest": "CBM CTF 2019",
+    "date": "Sat, 06 Apr. 2019 — Sun, 07 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/783",
+      "website" : "http://cbmctf2019.tk/"
+  }}, {
+    "contest": "SwampCTF 2019",
+    "date": "Sat, 06 Apr. 2019 — Mon, 08 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/779",
+      "website" : "https://swampctf.com/"
+  }}, {
+    "contest": "HackLab ESGI Security Day 7th Edition",
+    "date": "Fri, 5 Apr. 2019 — Sat, 06 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "website" : "https://ctf.hacklab-esgi.org/"
+  }}, {
+    "contest": "ENCRYPT CTF 2019",
+    "date": "Tue, 02 Apr. 2019 — Thu, 04 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/771",
+      "website" : "https://ctf.encryptcvs.cf/"
+  }}, {
+    "contest": "Sunshine CTF 2019",
+    "date": "Sat, 30 Mar. 2019 — Mon, 01 Apr. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/767",
+      "website" : "https://2019.sunshinectf.org/"
+  }}, {
+    "contest": "Securinets CTF Quals 2019",
+    "date": "Sat, 23 Mar. 2019 — Sun, 24 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/769",
+      "website" : "https://www.ctfsecurinets.com/register"
+  }}, {
+    "contest": "0CTF/TCTF 2019 Quals",
+    "date": "Sat, 23 Mar. 2019 — Mon, 25 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/736",
+      "website" : "https://ctf.0ops.sjtu.cn/"
+  }}, {
+    "contest": "CONFidence CTF Teaser 2019",
+    "date": "Sat, 16 Mar. 2019 — Sun, 17 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/760",
+      "website" : "https://confidence2019.p4.team/"
+  }}, {
+    "contest": "UTCTF 2019",
+    "date": "Sat, 09 Mar. 2019 — Mon, 11 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/757",
+      "website" : "https://isss.io/utctf"
+  }}, {
+    "contest": "Pragyan CTF 2019",
+    "date": "Fri, 08 Mar. 2019 — Sun, 10 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/755",
+      "website" : "http://ctf.pragyan.org/"
+  }}, {
+    "contest": "Aero CTF 2019",
+    "date": "Fri, 08 Mar. 2019 — Sat, 09 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/772",
+      "website" : "http://aeroctf.com/"
+  }}, {
+    "contest": "TAMUctf 19",
+    "date": "Sat, 23 Feb. 2019 — Mon, 04 Mar. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/740",
+      "website" : "https://tamuctf.com/"
+  }}, {
+    "contest": "STEM CTF: Cyber Challenge 2019",
+    "date": "Fri, 22 Feb. 2019 — Sat, 23 Feb. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/661",
+      "website" : "https://mitrestemctf.org/"
+  }}, {
+    "contest": "Saudi and Oman National Cyber Security CTF Quals 2019",
+    "date": "Thu, 07 Feb. 2019 — Sat, 09 Feb. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/742",
+      "website" : "https://cybertalents.com/competitions/quals-saudi-oman-national-cyber-security-ctf-2019"
+  }}, {
+    "contest": "NeverLAN CTF 2019",
+    "date": "Thu, 31 Jan. 2019 — Sun, 03 Feb. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/706",
+      "website" : "https://neverlanctf.com/"
+  }}, {
+    "contest": "Insomni'hack teaser 2019",
+    "date": "Sat, 19 Jan. 2019 — Sun, 20 Jan. 2019",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/686",
+      "website" : "https://teaser.insomnihack.ch/"
+  }}]
+}

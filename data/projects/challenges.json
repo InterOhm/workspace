@@ -1,0 +1,79 @@
+{
+  "challenges": [
+    {
+      "title": "Bitmap",
+      "description": "TheBlackSide challenge: image steganography",
+      "source": "https://theblackside.fr/challenges/steganographie/Bitmap"
+    },
+    {
+      "title": "ffuf",
+      "description": "TryHackMe room: (Walkthrough) Enumeration, fuzzing, and directory brute forcing using ffuf.",
+      "source": "https://tryhackme.com/room/ffuf"
+    },
+    {
+      "title": "Red Stone One Carat",
+      "description": "TryHackMe room: First room of the Red Stone series. Hack ruby using ruby.",
+      "source": "https://tryhackme.com/room/redstoneonecarat"
+    },
+    {
+      "title": "Crack The Hash Level 2",
+      "description": "TryHackMe room: Advanced cracking hashes challenges and wordlist generation.",
+      "source": "https://tryhackme.com/room/crackthehashlevel2"
+    },
+    {
+      "title": "Men in black box",
+      "description": "A web challenge that was available during SigSegV1 CTF (2018). It was a Boolean-based Blind SQLi with WAF.",
+      "source": "https://github.com/noraj/SigSegV1.webserver_7"
+    },
+    {
+      "title": "Sensory Domination Droid",
+      "description": "A programming challenge that was available during SigSegV1 CTF (2018). It was an IRC bot, the goal was to parse private IRC messages.",
+      "source": "https://github.com/noraj/SigSegV1.prog_2"
+    },
+    {
+      "title": "Fat",
+      "description": "A web challenge that was available during SigSegV2 CTF (2019). It was a Slim SSTI combined with a Sinatra/Rack session cookie forgery.",
+      "source": "https://github.com/noraj/SigSegV2.webserver_4"
+    },
+    {
+      "title": "Image Checker 1",
+      "description": "A web challenge that was available during SigSegV2 CTF (2019). It was a XXE OOB via SVG rasterization and a local file read.",
+      "source": "https://github.com/noraj/SigSegV2.webserver_3"
+    },
+    {
+      "title": "Image Checker 2",
+      "description": "A web challenge that was available during SigSegV2 CTF (2019). It was a XXE OOB via SVG combined with a SSRF port scan and a SSRF localhost bypass.",
+      "source": "https://github.com/noraj/SigSegV2.webserver_11"
+    },
+    {
+      "title": "10 questions about my system",
+      "description": "A forensics challenge that was available during SigSegV2 CTF (2019). It was a Volatility profile creation and 10 basic questions on the memory dump.",
+      "source": "https://github.com/noraj/SigSegV2.forensics_2"
+    },
+    {
+      "title": "Une porte peut en cacher une autre",
+      "description": "A web challenge that was available during SigSegV2 CTF (2019). It was a b374k.php webshell with c99 style PHP backdoor authentication bypass.",
+      "source": "https://github.com/noraj/SigSegV2.webserver_5"
+    },
+    {
+      "title": "noraj secret zone",
+      "description": "A web/misc/reverse/network challenge that was available during SigSegV2 CTF (2019). It was an eepsite (I2P website) containing obfuscated JavaScript.",
+      "source": "https://github.com/noraj/SigSegV2.misc_5"
+    },
+    {
+      "title": "The long way",
+      "description": "A misc challenge that was available during SigSegV2 CTF (2019). It was a extra long file path on exFAT FS, scripting was mandatory to retrieve the whole path.",
+      "source": "https://github.com/noraj/SigSegV2.misc_4"
+    },
+    {
+      "title": "Drugs: crack & hash",
+      "description": "A cracking challenge that was available during SigSegV2 CTF (2019). Password hash cracking with custom dictionary/wordlist. There were 10 hashes to crack.",
+      "source": "https://github.com/noraj/SigSegV2.cracking_1"
+    },
+    {
+      "title": "Matz 2.3",
+      "description": "A reverse challenge that was available during SigSegV2 CTF (2019). Ruby bytecode reverse engineering/disassembly making use of RubyVM class.",
+      "source": "https://github.com/noraj/SigSegV2.reverse_6"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "events": [{
+    "contest": "SigSeg V1",
+    "date": "Sat, 01 Dec. 2018 — Sun, 02 Dec. 2018",
+    "location": "Paris, IdF, France",
+    "links": {
+      "website" : "https://sigsegv1.rtfm.re/"
+  }}, {
+    "contest": "35C3 CTF",
+    "date": "Thu, 27 Dec. 2018 — Sat, 29 Dec. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/718",
+      "website" : "https://35c3ctf.ccc.ac/"
+  }}, {
+    "contest": "HITCON CTF 2018",
+    "date": "Sat, 20 Oct. 2018 — Mon, 22 Oct. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/669",
+      "website" : "https://ctf.hitcon.org/"
+  }}, {
+    "contest": "Hack&#46;lu CTF 2018",
+    "date": "Tue, 16 Oct. 2018 — Thu, 18 Oct. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/699",
+      "website" : "https://arcade.fluxfingers.net/"
+  }}, {
+    "contest": "picoCTF 2018",
+    "date": "Fri, 28 Sep. 2018 — Fri, 12 Oct. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/681",
+      "website" : "https://picoctf.com/"
+  }}, {
+    "contest": "SIGSEGv1 Quals 2018",
+    "date": "Fri, 28 Sep. 2018 — Fri, 12 Oct. 2018",
+    "location": "On-line",
+    "links": {
+      "website" : "https://qual.rtfm.re/"
+  }}, {
+    "contest": "DefCamp CTF Qualification 2018",
+    "date": "Sat, 22 Sep. 2018 — Sun, 23 Sep. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/654",
+      "website" : "https://dctf.def.camp/"
+  }}, {
+    "contest": "HackIT CTF 2018",
+    "date": "Sat, 08 Sep. 2018 — Mon, 10 Sep. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/672",
+      "website" : "https://ctf.hackit.ua/"
+  }}, {
+    "contest": "noxCTF 2018",
+    "date": "Thu, 06 Sep. 2018 — Sat, 08 Sep. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/671",
+      "website" : "https://ctf18.noxale.com/"
+  }}, {
+    "contest": "TokyoWesterns CTF 4th 2018",
+    "date": "Sat, 01 Sep. 2018 — Mon, 03 Sep. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/651",
+      "website" : "https://tokyowesterns.github.io/ctf2018/"
+  }}, {
+    "contest": "Codefest CTF 2018",
+    "date": "Fri, 31 Aug. 2018 — Sat, 01 Sep. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/677",
+      "website" : "https://www.hackerrank.com/codefest-ctf-18"
+  }}, {
+    "contest": "Hackcon 2018",
+    "date": "Wed, 15 Aug. 2018 — Thu, 16 Aug. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/652",
+      "website" : "http://www.hackcon.in/"
+  }}, {
+    "contest": "TJCTF 2018",
+    "date": "Tue, 07 Aug. 2018 — Mon, 13 Aug. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/660",
+      "website" : "https://tjctf.org/"
+  }}, {
+    "contest": "CTFZone 2018 Quals",
+    "date": "Sat, 21 Jul. 2018 — Sun, 22 Jul. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/632",
+      "website" : "https://ctf.bi.zone/"
+  }}, {
+    "contest": "Meepwn CTF Quals 2018",
+    "date": "Fri, 13 Jul. 2018 — Sun, 15 Jul. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/625/",
+      "website" : "https://ctf.meepwn.team/"
+  }}, {
+    "contest": "Google CTF 2018 Quals",
+    "date": "Sat, 23 Jun. 2018 — Mon, 25 Jun. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/623",
+      "website" : "https://g.co/ctf"
+  }}, {
+    "contest": "ASIS CTF Quals 2018",
+    "date": "Sat, 28 Apr. 2018 — Mon, 30 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/568",
+      "website" : "https://asisctf.com/"
+  }}, {
+    "contest": "NoNameCon CTF Quals 2018",
+    "date": "Sat, 21 Apr. 2018 — Mon, 23 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/616",
+      "website" : "https://ctf.nonamecon.org/"
+  }}, {
+    "contest": "BreizhCTF 2018",
+    "date": "Fri, 20 Apr. 2018 — Sat, 21 Apr. 2018",
+    "location": "Rennes, Bretagne, France",
+    "links": {
+      "website" : "https://www.breizhctf.com/"
+  }}, {
+    "contest": "PACTF 2018",
+    "date": "Mon, 16 Apr. 2018 — Mon, 30 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/576",
+      "website" : "https://pactf.com/"
+  }}, {
+    "contest": "Timisoara CTF 2018 Quals",
+    "date": "Sat, 14 Apr. 2018 — Sat, 21 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/594",
+      "website" : "https://www.timisoaractf.com/"
+  }}, {
+    "contest": "WPICTF 2018",
+    "date": "Fri, 13 Apr. 2018 — Sun, 15 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/600",
+      "website" : "http://wpictf.xyz/"
+  }}, {
+    "contest": "HITB-XCTF GSEC CTF 2018 Quals",
+    "date": "Wed, 11 Apr. 2018 — Fri, 13 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/598",
+      "website" : "https://hitbxctf2018.xctf.org.cn/"
+  }}, {
+    "contest": "Byte Bandits CTF 2018",
+    "date": "Sat, 07 Apr. 2018 — Sun, 08 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/596",
+      "website" : "https://ctf.euristica.in/"
+  }}, {
+    "contest": "UIUCTF 2018",
+    "date": "Sat, 07 Apr. 2018 — Mon, 09 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/587",
+      "website" : "https://sigpwny.github.io/ctf.html"
+  }}, {
+    "contest": "Sunshine CTF 2018",
+    "date": "Thu, 05 Apr. 2018 — Sat, 07 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/593",
+      "website" : "https://sunshinectf.org/"
+  }}, {
+    "contest": "INS'hAck 2018",
+    "date": "Thu, 05 Apr. 2018 — Sun, 08 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/592",
+      "website" : "https://ctf.insecurity-insa.fr/"
+  }}, {
+    "contest": "0CTF 2018 Quals",
+    "date": "Sat, 31 Mar. 2018 — Mon, 02 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/557",
+      "website" : "https://ctf.0ops.sjtu.cn/"
+  }}, {
+    "contest": "Nuit du Hack CTF Quals 2018",
+    "date": "Fri, 30 Mar. 2018 — Sat, 31 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/583",
+      "website" : "https://quals.nuitduhack.com/"
+  }}, {
+    "contest": "SwampCTF 2018",
+    "date": "Fri, 30 Mar. 2018 — Sun, 01 Apr. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/590",
+      "website" : "https://swampctf.com/"
+  }}, {
+    "contest": "Securinets CTF Quals 2018",
+    "date": "Sat, 24 Mar. 2018 — Sun, 25 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/588",
+      "website" : "https://www.ctfsecurinets.com/"
+  }}, {
+    "contest": "VolgaCTF 2018 Quals",
+    "date": "Fri, 23 Mar. 2018 — Sun, 25 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/539",
+      "website" : "https://quals.2018.volgactf.ru/"
+  }}, {
+    "contest": "BackdoorCTF 2018",
+    "date": "Sat, 17 Mar. 2018 — Sun, 18 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/585",
+      "website" : "https://backdoor.sdslabs.co/competitions/backdoorctf18/dashboard"
+  }}, {
+    "contest": "angstromCTF 2018",
+    "date": "Fri, 16 Mar. 2018 — Wed, 21 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/577",
+      "website" : "https://www.angstromctf.com/"
+  }}, {
+    "contest": "N1CTF 2018",
+    "date": "Sat, 10 Mar. 2018 — Mon, 12 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/584",
+      "website" : "http://n1ctf.xctf.org.cn/"
+  }}, {
+    "contest": "Pragyan CTF 2018",
+    "date": "Fri, 02 Mar. 2018 — Sat, 03 Mar. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/581",
+      "website" : "https://ctf.pragyan.org/"
+  }}, {
+    "contest": "NeverLAN CTF 2018",
+    "date": "Fri, 23 Feb. 2018 — Tue, 27 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/569",
+      "website" : "http://neverlanctf.com/"
+  }}, {
+    "contest": "TAMUctf 18",
+    "date": "Sat, 17 Feb. 2018 — Mon, 26 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/559",
+      "website" : "https://ctf.tamu.edu/"
+  }}, {
+    "contest": "Harekaze CTF 2018",
+    "date": "Sat, 10 Feb. 2018 — Sun, 11 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/549",
+      "website" : "https://harekaze.com/ctf.html"
+  }}, {
+    "contest": "EasyCTF IV",
+    "date": "Sat, 10 Feb. 2018 — Tue, 20 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/573",
+      "website" : "https://www.easyctf.com/"
+  }}, {
+    "contest": "nullcom HackIM 2018",
+    "date": "Fri, 09 Feb. 2018 — Sun, 11 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/566",
+      "website" : "http://ctf.nullcon.net/"
+  }}, {
+    "contest": "EvlzCTF 2018",
+    "date": "Fri, 09 Feb. 2018 — Sat, 10 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/570",
+      "website" : "https://evlzctf.in/"
+  }}, {
+    "contest": "SharifCTF 8",
+    "date": "Fri, 02 Feb. 2018 — Sat, 03 Feb. 2018",
+    "location": "On-line",
+    "links": {
+      "CTFTime" : "https://ctftime.org/event/507",
+      "website" : "http://ctf.certcc.ir/"
+  }}, {
+    "contest": "FIC 2018",
+    "date": "Tue, 23 Jan. 2018 — Wed, 24 Jan. 2018",
+    "location": "Lille, Hauts-de-France, France",
+    "links": {
+      "website" : "https://www.forum-fic.com/"
+  }}]
+}

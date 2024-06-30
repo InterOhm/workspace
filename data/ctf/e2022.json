@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "contest": "Hackvens 2022",
+      "date": "Fri, 07 Sep. 2022 - Sat, 08 Sep. 2022",
+      "location": "Rennes, France",
+      "links": {
+        "website": "http://hackvens.fr/"
+      }
+    },{
+      "contest": "H@cktivityCon 2022",
+      "date": "Wed, 03 Aug. 2022 - Wed, 03 Aug. 2022",
+      "location": "On-line",
+      "links": {
+        "website": "https://www.hackerone.com/hacktivitycon"
+      }
+    },{
+      "contest": "SSTIC 2022",
+      "date": "Wed, 01 Jun. 2022 - Fri, 03 Jun. 2022",
+      "location": "Rennes, France",
+      "links": {
+        "website": "https://www.sstic.org/2022/"
+      }
+    },{
+      "contest": "BreizhCTF 2k22",
+      "date": "Fri, 01 Apr. 2022 - Sat, 02 Apr. 2022",
+      "location": "Rennes, Bretagne, France",
+      "links": {
+        "website": "https://www.breizhctf.com/"
+      }
+    },{
+      "contest": "TheBlackSide Opening Conference",
+      "date": "Sat, 29 Jan. 2022 - Sat, 29 Jan. 2022",
+      "location": "On-line",
+      "links": {
+        "website": "https://theblackside.fr/"
+      }
+    }
+  ]
+}
